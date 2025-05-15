@@ -2,6 +2,18 @@
 
 This agent validates Harmonized System Nomenclature (HSN) codes using a master dataset in Excel format. It checks if the codes are correctly formatted, exist in the master data, and (optionally) if parent codes exist for 8-digit codes.
 
+
+![Screenshot 2025-05-15 210940](https://github.com/user-attachments/assets/ab21b532-47ce-4433-ab14-12ef15c2495f)
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## Features
